@@ -1,0 +1,223 @@
+@import "./color.css";
+.bg{
+	background-color: #f3f4f6;
+}
+.b-1 {
+  border-radius: 10rpx;
+}
+
+.b-2 {
+  border-radius: 20rpx;
+}
+
+.border-1 {
+  border: 4rpx solid #eee;
+}
+
+.border-2 {
+  border: 8rpx solid #eee;
+}
+
+.p-1 {
+  padding: 10rpx;
+}
+
+.p-2 {
+  padding: 20rpx;
+}
+
+.pt-1 {
+  padding-top: 10rpx;
+}
+
+.pt-2 {
+  padding-top: 20rpx;
+}
+
+.pb-1 {
+  padding-bottom: 10rpx;
+}
+
+.pb-2 {
+  padding-bottom: 20rpx;
+}
+
+.pl-1 {
+  padding-left: 10rpx;
+}
+
+.pl-2 {
+  padding-left: 20rpx;
+}
+
+.pr-1 {
+  padding-right: 10rpx;
+}
+
+.pr-2 {
+  padding-right: 20rpx;
+}
+
+.m-1 {
+  margin: 10rpx;
+}
+
+.m-2 {
+  margin: 20rpx;
+}
+
+.mt-1 {
+  margin-top: 10rpx;
+}
+
+.mt-2 {
+  margin-top: 20rpx;
+}
+
+.mb-1 {
+  margin-bottom: 10rpx;
+}
+
+.mb-2 {
+  margin-bottom: 20rpx;
+}
+
+.ml-1 {
+  margin-left: 10rpx;
+}
+
+.ml-2 {
+  margin-left: 20rpx;
+}
+
+.mr-1 {
+  margin-right: 10rpx;
+}
+
+.mr-2 {
+  margin-right: 20rpx;
+}
+
+.f {
+  display: flex;
+}
+
+.up.jc {
+  justify-content: center;
+}
+
+.up.je {
+  justify-content: flex-end;
+}
+
+.up.ja {
+  justify-content: space-around;
+}
+
+.up.jb {
+  justify-content: space-between;
+}
+
+.up.js {
+  justify-content: flex-start;
+}
+
+.up.ac {
+  align-items: center;
+}
+
+.up.center {
+  justify-content: center;
+  align-items: center;
+}
+
+.up.row {
+  flex-direction: row;
+}
+
+.up.col {
+  flex-direction: column;
+}
+
+.wrap {
+  flex-wrap: wrap;
+}
+
+.f-1 {
+  flex: 1;
+}
+
+.fx-c {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.fxy-c {
+  align-items: center;
+}
+
+.fx-s {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+}
+
+.fx-e {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+}
+
+.fx-a {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.fx-b {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.fy-c {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.fyx-c {
+  align-items: center;
+}
+
+.fy-s {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+}
+
+.fy-e {
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+}
+
+.fy-a {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.fy-b {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.box-b {
+  box-sizing: border-box;
+}
